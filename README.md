@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harish_etikyala" target="blank"><img src="https://img.shields.io/twitter/follow/harish_etikyala?logo=twitter&style=for-the-badge" alt="harish_etikyala" /></a> </p>
 
-- 🔭 I’m currently working on **Health app**
+- 🔭 I’m currently working on **Health monitering application**
 
 - 🌱 I’m currently learning **Devops,DSA**
 
